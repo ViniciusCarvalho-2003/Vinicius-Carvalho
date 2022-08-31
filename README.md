@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Vinícius Carvalho
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning web development
+- 📫 How to reach me carvalho.vinicius714@gmail.com
